@@ -1,8 +1,11 @@
 
-
+# host at which mongodb is running
 spring.data.mongodb.host=localhost
 
+#port number at which mongodb is running
 spring.data.mongodb.port=27017
+
+#name of the database in mongodb
 spring.data.mongodb.database=institute
 
 # name of the application
